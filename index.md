@@ -19,9 +19,9 @@ knit        : slidify::knit2slides
 -https://www.coursera.org/learn/data-products/peer/tMYrn/course-project-shiny-application-and-reproducible-pitch
 
 -In this assignment, I prepared a shiny application and the link is :
-https://ozgetugrulsonmez.shinyapps.io/shiny_assignment/
+https://gmoneyomics.shinyapps.io/Developing-Data-Products/
 
--Also, the codes of server.R and ui.R are on the link: (github)
+-Also, the codes of server.R and ui.R are on the link: https://github.com/gmoneyomics/Developing-Data-Products-Week-4-Assignment
 
 --- 
 
